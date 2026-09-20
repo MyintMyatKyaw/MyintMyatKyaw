@@ -4,11 +4,11 @@ Computer Science student at Rangsit University with a strong interest in iOS dev
 
 ## About Me
 
-- 🎓 Computer Science student at Rangsit University
-- 📱 Aspiring iOS Developer
-- 🧠 Interested in mobile development, AI, and software engineering
-- 🌱 Currently improving my Swift and SwiftUI skills
-- 🌏 Based in Thailand
+-  Computer Science student at Rangsit University
+-  Aspiring iOS Developer
+-  Interested in mobile development, AI, and software engineering
+-  Currently improving my Swift and SwiftUI skills
+-  Based in Thailand
 
 ## Tech Stack
 
