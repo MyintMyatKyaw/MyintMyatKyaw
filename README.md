@@ -31,5 +31,5 @@ Computer Science student at Rangsit University with a strong interest in iOS dev
 
 ## Connect With Me
 
-- LinkedIn: [Myint Myat Kyaw](www.linkedin.com/in/myint-myat-kyaw-bb5a2224a)
+- LinkedIn: [Myint Myat Kyaw](https://www.linkedin.com/in/myint-myat-kyaw-dev/)
 - Email: myintmyatkyaw.dev.1@gmail.com
